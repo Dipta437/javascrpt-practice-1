@@ -1,0 +1,10 @@
+body{
+   text-align: center;
+}
+label{
+    display: block;
+    margin-top: 1rem;
+}
+button{
+    margin-top: 1rem;
+}
